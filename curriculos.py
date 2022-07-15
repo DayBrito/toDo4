@@ -1,8 +1,8 @@
 ### To Do 4 - Dayane
 candidatos = []
-# candidatos_total = []
+
 count = 0
-# candidatos_aprovados = []
+
 requisitos = {'Cientista': ['python', 'pandas', 'liderança', 'SQL', 'criação', 'BI', 'desenvolvimento', 'base de dados'],
 'Analista': ['python', 'SQL', 'BI', 'relatórios']}
 
